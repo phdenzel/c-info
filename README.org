@@ -1,0 +1,23 @@
+#+TITLE: c-info
+#+AUTHOR: phdenzel
+
+  A few short C programs that print out some basic info on types, structs, arrays, and loops.
+
+  It also includes some basic SDL programs which could get someone started on a self-programmed game...
+  /Hint/: try the arrows on your keyboard when running +sdl_runtime+.
+
+*** Compile
+    
+    To compile the info programs, type in the terminal for example:
+    #+BEGIN_SRC shell :exports none
+      gcc -o info_types info_types.c
+      chmod 755 info_types
+      ./info_types
+    #+END_SRC
+  
+    To compile the SDL examples, run the command:
+    #+BEGIN_SRC shell :export none
+      ./make_sdl.sh
+    #+END_SRC
+
+    This compiles the programs, if the necessart SDL libraries have been installed.
