@@ -4,7 +4,7 @@
   A few short C programs that print out some basic info on types, structs, arrays, and loops.
 
   It also includes some basic SDL programs which could get someone started on a self-programmed game...
-  /Hint/: try the arrows on your keyboard when running +sdl_runtime+.
+  /Hint/: try the arrows on your keyboard when running ~sdl_runtime~.
 
 *** Compile
     
