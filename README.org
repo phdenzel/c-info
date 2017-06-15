@@ -20,4 +20,4 @@
       ./make_sdl.sh
     #+END_SRC
 
-    This compiles the programs, if the necessart SDL libraries have been installed.
+    This compiles the programs, if the necessary SDL libraries have been installed.
